@@ -1,4 +1,4 @@
-# My Shop — Flutter Shopping App
+# My Shop Flutter Shopping App
 
 A clean, responsive Flutter shopping app that lets users browse fruits and vegetables, manage quantities, and view a live order summary — all in a simple and intuitive UI.
 
