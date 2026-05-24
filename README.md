@@ -106,7 +106,7 @@ A fixed bottom panel that filters items with quantity > 0 and displays each item
 
 **Maysam Bradiya**  
 Junior Frontend & Mobile Developer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub]((https://github.com/MaysamMB)) · [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/maysam-baradiya-589757347))
 
 ---
 
