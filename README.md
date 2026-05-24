@@ -6,8 +6,8 @@ A clean, responsive Flutter shopping app that lets users browse fruits and veget
 
 ## Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
+![Home Screen](screenshots/image.png)
+![Details Screen](screenshots/image-1.png)
 
 ---
 
